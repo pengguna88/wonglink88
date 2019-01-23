@@ -37,7 +37,7 @@ background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(22,24,28
 background: -webkit-linear-gradient(top, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
 background: -o-linear-gradient(top, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
 background: -ms-linear-gradient(top, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
-background: linear-gradient(to bottom, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
+background: linear-gradient(to bottom, rgb(58, 34, 22) 0%, rgba(58, 34, 22, 0.52) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#16181c', endColorstr='#16181c', GradientType=0 );
 color: #e9cea1;
 float: left;
@@ -86,7 +86,7 @@ background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(22,24,28
 background: -webkit-linear-gradient(top, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
 background: -o-linear-gradient(top, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
 background: -ms-linear-gradient(top, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
-background: linear-gradient(to bottom, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
+background: linear-gradient(to bottom, rgb(58, 34, 22) 0%, rgba(58, 34, 22, 0.52) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#16181c', endColorstr='#16181c', GradientType=0 );
 color: #e9cea1;
 float: left;
@@ -135,7 +135,7 @@ background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(22,24,28
 background: -webkit-linear-gradient(top, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
 background: -o-linear-gradient(top, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
 background: -ms-linear-gradient(top, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
-background: linear-gradient(to bottom, rgba(22,24,28,0.9) 0%, rgba(22,24,28,0.9) 100%);
+background: linear-gradient(to bottom, rgb(58, 34, 22) 0%, rgba(58, 34, 22, 0.52) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#16181c', endColorstr='#16181c', GradientType=0 );
 color: #e9cea1;
 float: left;
